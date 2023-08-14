@@ -4,7 +4,7 @@ Welcome to the official GitHub repository of the Ice Tilt Hockey League (ITHL). 
 
 ## Community
 
-Join our Discord community where we discuss everything related to the league, tournaments, and more. You can join us at [discord.gg/icetilthockeyleague](https://discord.gg/icetilthockeyleague).
+Our Discord community is where we discuss everything related to the league, tournaments, and more. You can join us at [discord.gg/icetilthockeyleague](https://discord.gg/icetilthockeyleague).
 
 ## Tournaments
 
